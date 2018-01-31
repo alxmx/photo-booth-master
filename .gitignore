@@ -1,0 +1,26 @@
+########################################################################
+# ****DO NOT STORE CREDENTIALS OR ENVIRONMENT RELATED INFO IN REPO**** #
+########################################################################
+
+*.log
+
+.sass-cache/*
+
+*.DS_Store
+
+_logs
+_tests
+error.log
+
+node_modules/
+node_modules
+
+dist/vendor
+dist/camera-images/*.jpg
+
+dist/login.php
+dist/index.php
+dist/upload.php
+dist/fb-callback.php
+
+dist/vendor
